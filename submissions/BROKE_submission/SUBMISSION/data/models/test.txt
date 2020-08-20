@@ -1,1 +1,0 @@
-This is just a placeholder file for the actual model. This can be accessed from the compiled models folder. From there, please unzip the model and save it here as "broke.SavedModel".
