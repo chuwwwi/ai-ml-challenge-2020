@@ -1,0 +1,1 @@
+This is a placeholder for the actual model. The compiled model can be found in the "Compiled Models" directory. From there, please unzip the model and place it here with the name "broke.SavedModel" if you intend to try out the submission for yourself. :)
